@@ -25,3 +25,5 @@ Sou estudante de Ciência da Computação na Universidade Federal do Paraná (UF
 | **⚔️ Knight's Exploration** | Jogo de plataforma 2D com física inspirada em Super Mario Bros, pulo adaptável e seleção de dificuldade. | C, Allegro5, Makefile, Valgrind | [📝 Ler Detalhes Técnicos](./Meus%20Projetos/RoundsUti.md) 🔒 |
 | **🤖 TheBoys** | Simulador autônomo de mundo baseado em uma fila de eventos cronológicos com foco em alocação dinâmica de memória. | C, Makefile, Valgrind | [📝 Ler Detalhes Técnicos](./Meus%20Projetos/TheBoys.md) 🔒 |
 | **🏥 Rounds-Uti** | Aplicativo mobile para médicos gerenciarem pacientes em múltiplas UTIs. Funciona 100% offline com criptografia local. | React Native, React Query, MMKV, Laravel | [📝 Ler Detalhes Técnicos](./Meus%20Projetos/RoundsUti.md) 🔒 |
+
+🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*

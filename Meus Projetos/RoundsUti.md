@@ -2,7 +2,6 @@
 
 Aplicativo focado em facilitar a rotina de um médico que trabalha em múltiplos hospitais e Unidades de Terapia Intensiva (UTIs). O projeto resolve o problema de organização e centralização de dados de pacientes, evitando desgaste com múltiplos sistemas, um para cada hospital.
 
----
 
 ## 🚀 Principais Funcionalidades
 
@@ -10,7 +9,6 @@ Aplicativo focado em facilitar a rotina de um médico que trabalha em múltiplos
 * **Sincronização inteligente (Sync):** Assim que o dispositivo detecta uma conexão com a internet, os dados salvos localmente são sincronizados automaticamente com o servidor (back-end), mantendo as informações seguras.
 * **Gerenciamento Multi-Hospitalar:** Permite alternar facilmente entre diferentes hospitais e UTIs, organizando o painel de pacientes de acordo com o local de atendimento do dia.
 
----
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
@@ -20,7 +18,6 @@ Aplicativo focado em facilitar a rotina de um médico que trabalha em múltiplos
 * **Armazenamento Seguro Local:** MMKV (criptografia de dados sensíveis dos pacientes) e AsyncStorage
 * **Ferramentas & Infraestrutura:** Git, GitHub, Docker
 
----
 
 ## 👥 Minha Contribuição no Projeto
 
@@ -29,7 +26,6 @@ Como o projeto foi desenvolvido em equipe, foquei meus esforços na engenharia d
 * **Resolução de Bugs (Debug):** Fiquei responsável por corrigir bugs de lógica do aplicativo e inconsistências no fluxo do modo offline.
 * **Ajustes de Sincronização:** Trabalhei na manutenção e refatoração da comunicação entre o armazenamento seguro local (MMKV/AsyncStorage) e as regras de cache do React Query para garantir que os dados não fossem perdidos.
 
----
 
 ## 🧠 Desafios Técnicos e Aprendizados
 
@@ -46,5 +42,7 @@ Como o projeto foi desenvolvido em equipe, foquei meus esforços na engenharia d
 * **A solução:** Atualmente, estamos trabalhando na correção dessa comunicação com o back-end, focando em criar uma fila de requisições eficiente. O objetivo é fazer com que o aplicativo guarde as ações feitas offline e as envie uma por uma assim que houver sinal, garantindo que nenhum dado do paciente seja perdido ou salvo de forma errada.
 
 
----
-💻 Desenvolvido por **Gabriel de Souza Isoppo** — Entre em contato no [LinkedIn](SEU_LINKEDIN_AQUI).
+👥 Projeto desenvolvido em equipe.
+💻 Contribuições mobile e documentação por **Gabriel de Souza Isoppo** — Entre em contato no [LinkedIn](SEU_LINKEDIN_AQUI).
+
+🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*
