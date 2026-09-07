@@ -17,7 +17,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Paraná (UF
 * **Atuação como Assessor:** Participação em processos internos, levantamento de requisitos, aplicação e estruturação de metodologias ágeis (Scrum/Kanban) para garantir o cumprimento dos prazos dos projetos.
 
 
-# 🚧 Work in Progress
 ## 📂 Meus Projetos
 
 | Projeto | Descrição | Principais Tecnologias | Documentação |
