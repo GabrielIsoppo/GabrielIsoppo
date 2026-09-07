@@ -26,4 +26,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Paraná (UF
 | **🤖 TheBoys** | Simulador autônomo de mundo baseado em uma fila de eventos cronológicos com foco em alocação dinâmica de memória. | C, Makefile, Valgrind | [📝 Ler Detalhes Técnicos](./Meus%20Projetos/TheBoys.md) 🔒 |
 | **🏥 Rounds-Uti** | Aplicativo mobile para médicos gerenciarem pacientes em múltiplas UTIs. Funciona 100% offline com criptografia local. | React Native, React Query, MMKV, Laravel | [📝 Ler Detalhes Técnicos](./Meus%20Projetos/RoundsUti.md) 🔒 |
 
+## ✉️ Contato
+Entre em contato no [LinkedIn](https://www.linkedin.com/in/gabriel-de-souza-isoppo-a7630739b/).
+
 🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*

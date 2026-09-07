@@ -26,4 +26,6 @@ Este foi meu primeiro grande projeto na faculdade. Ele é um programa que simula
 * **O problema:** Ainda estava no processo de entender o uso de ponteiros e como evitar vazamentos de memória.
 * **A solução:** A forma que resolvi foi durante a escrita do código redobrar o cuidado quando lidando com ponteiros e alocações de memória. Fora os diversos testes para garantir que não havia vazamentos de memória usando Valgrind. Esse problema me ajudou a entender melhor como ponteiros funcionam e também melhorou meu entendimento do C.
 
+💻 Desenvolvido por **Gabriel de Souza Isoppo** — Entre em contato no [LinkedIn](https://www.linkedin.com/in/gabriel-de-souza-isoppo-a7630739b/).
+
 🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*

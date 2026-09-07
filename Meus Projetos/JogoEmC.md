@@ -34,6 +34,6 @@ Este é um jogo de plataforma 2D desenvolvido em linguagem C, onde o jogador con
 * **O problema:** Controlar as transições de animações e as regras de cada estado da cavaleira.
 * **A solução:** A personagem possui vários estados (andando, ociosa, pulando, agachando, escalando). Para tratar quando cada uma acontece, utilizei variáveis de controle dentro da estrutura (`struct`) da jogadora para disparar a animação correta. Além disso criei uma lógica que deixa de renderizar a personagem a cada 4 frames, criando o efeito de piscar quando está no estado de invunerabilidade.
 
-💻 Desenvolvido por **Gabriel de Souza Isoppo** — Entre em contato no [LinkedIn](SEU_LINKEDIN_AQUI).
+💻 Desenvolvido por **Gabriel de Souza Isoppo** — Entre em contato no [LinkedIn](https://www.linkedin.com/in/gabriel-de-souza-isoppo-a7630739b/).
 
 🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*
