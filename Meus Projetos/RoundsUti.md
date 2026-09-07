@@ -45,4 +45,4 @@ Como o projeto foi desenvolvido em equipe, foquei meus esforços na engenharia d
 👥 Projeto desenvolvido em equipe.
 💻 Contribuições mobile e documentação por **Gabriel de Souza Isoppo** — Entre em contato no [LinkedIn](https://www.linkedin.com/in/gabriel-de-souza-isoppo-a7630739b/).
 
-🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*
+##### 🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*
