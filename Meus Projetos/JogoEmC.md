@@ -36,4 +36,4 @@ Este é um jogo de plataforma 2D desenvolvido em linguagem C, onde o jogador con
 
 💻 Desenvolvido por **Gabriel de Souza Isoppo** — Entre em contato no [LinkedIn](https://www.linkedin.com/in/gabriel-de-souza-isoppo-a7630739b/).
 
-##### 🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*
+##### 🤖 *Nota: Esta documentação utilizou inteligência artificial (Google Gemini) estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*

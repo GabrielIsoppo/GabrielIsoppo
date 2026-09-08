@@ -30,4 +30,4 @@ Entre em contato no [LinkedIn](https://www.linkedin.com/in/gabriel-de-souza-isop
 
 <br />
 
-##### 🤖 *Nota: Esta documentação utilizou inteligência artificial estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*
+##### 🤖 *Nota: Esta documentação utilizou inteligência artificial (Google Gemini) estritamente para a estruturação do template (Markdown) e revisão ortográfica das descrições autorais.*
