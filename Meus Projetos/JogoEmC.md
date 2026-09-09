@@ -2,6 +2,8 @@
 
 Este é um jogo de plataforma 2D desenvolvido em linguagem C, onde o jogador controla uma cavaleira em um cenário com obstáculos e desafios. O projeto foi criado como parte de um trabalho prático da faculdade para aplicar conceitos de lógica de programação, loops e renderização gráfica usando a biblioteca Allegro5.
 
+#### Repositório do jogo: https://github.com/GabrielIsoppo/knight-Exploration
+
 
 ## 🚀 Principais Funcionalidades
 
