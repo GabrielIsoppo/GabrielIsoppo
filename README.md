@@ -3,9 +3,14 @@ Sou estudante de Ciência da Computação na Universidade Federal do Paraná (UF
 
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Tenho experiência:** C, React Native, TypeScript, JavaScript, Expo
-* **Tenho conhecimento básico:** Git, GitHub, Docker, Haskell, Python, SQL, PHP, Laravel
-* **Estou aprendendo:** Java
+### Tenho experiência
+[![My Skills](https://skillicons.dev/icons?i=c,react,js,ts)](https://skillicons.dev)
+
+### Tenho conhecimento básico
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,haskell,python,mysql,php,laravel)](https://skillicons.dev)
+
+### Estou aprendendo
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 ## 💼 Experiência / Projetos de Extensão
