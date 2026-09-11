@@ -30,6 +30,26 @@ Sou estudante de Ciência da Computação na Universidade Federal do Paraná (UF
 | **🤖 TheBoys** | Simulador autônomo de mundo baseado em uma fila de eventos cronológicos com foco em alocação dinâmica de memória. | C, Makefile, Valgrind | [📝 Ler Detalhes Técnicos](./Meus%20Projetos/TheBoys.md) 🔒 |
 | **🏥 Rounds-Uti** | Aplicativo mobile para médicos gerenciarem pacientes em múltiplas UTIs. Funciona 100% offline com criptografia local. | React Native, React Query, MMKV, Laravel | [📝 Ler Detalhes Técnicos](./Meus%20Projetos/RoundsUti.md) 🔒 |
 
+## 💻 Estatísticas do github
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=GabrielIsoppo&theme=tokyonight&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielIsoppo&theme=radical"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielIsoppo&theme=radical"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielIsoppo&theme=radical&utcOffset=-3"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielIsoppo&theme=radical"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielIsoppo&theme=radical"/>
+</p>
+
 ## ✉️ Contato
 Entre em contato no [LinkedIn](https://www.linkedin.com/in/gabriel-de-souza-isoppo-a7630739b/).
 
