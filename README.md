@@ -31,10 +31,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Paraná (UF
 | **🏥 Rounds-Uti** | Aplicativo mobile para médicos gerenciarem pacientes em múltiplas UTIs. Funciona 100% offline com criptografia local. | React Native, React Query, MMKV, Laravel | [📝 Ler Detalhes Técnicos](./Meus%20Projetos/RoundsUti.md) 🔒 |
 
 ## 💻 Estatísticas do github
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=GabrielIsoppo&theme=tokyonight&hide_border=true" />
-</p>
-
 
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielIsoppo&theme=radical"/>
